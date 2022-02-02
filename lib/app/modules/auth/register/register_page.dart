@@ -15,6 +15,7 @@ class RegisterPage extends StatefulWidget {
 }
 
 class _RegisterPageState
+
     extends VakinhaState<RegisterPage, RegisterController> {
   final formKey = GlobalKey<FormState>();
 
