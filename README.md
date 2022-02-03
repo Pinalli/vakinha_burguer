@@ -2,14 +2,17 @@
 
 ## This project was developed at Dart Week held by the Flutter Academy
 
-![vakinha](https://user-images.githubusercontent.com/18580532/152197625-b510af29-ba66-4bd8-b90b-c4537c989876.png  )
-
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
 
+<di>
+  <img height="500" src="https://user-images.githubusercontent.com/18580532/152197625-b510af29-ba66-4bd8-b90b-c4537c989876.png"
+ </div>
+  
 
-A new Flutter project.
 
 ## Getting Started
+
+  A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
